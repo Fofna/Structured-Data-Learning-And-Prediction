@@ -8,5 +8,5 @@ Article Links :
 
 Article DDP : https://arxiv.org/abs/1802.03676
 
-New Experiment Link : [Gene ontology classification of biological process, cellular component, and molecular function](https://www.researchgate.net/profile/Ankur-Jain-40/publication/351018558/figure/fig4/AS:104113398665223:1619818603258/Gene-ontology-classification-of-biological-process-cellular-component-and-molecular.png)
+New Experiment Link : https://www.researchgate.net/figure/Gene-ontology-classification-of-biological-process-cellular-component-and-molecular_fig4_365759093
 
