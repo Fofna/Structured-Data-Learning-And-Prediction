@@ -4,7 +4,7 @@ New experiment After Reading DDP for Structured Prediction And Attention
 
 ## By Ladji Idrissa Fofana
 
-Article Links :
+Links :
 
 Article DDP : \
 https://arxiv.org/abs/1802.03676
